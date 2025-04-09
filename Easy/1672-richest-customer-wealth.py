@@ -8,7 +8,15 @@ class Solution(object):
         :type accounts: List[List[int]]
         :rtype: int
         """
-        max_wealth = 0  # Initialize the variable to track the maximum wealth
-        for account in accounts:  # Iterate through each customer's account balances
-            max_wealth = max(max_wealth, sum(account))  # Find the max wealth by summing each account's balance
-        return max_wealth  # Return the maximum wealth
+        # Optimized approach: Using max() and sum() to get the maximum wealth
+        return max(sum(account) for account in accounts)  # Find the maximum sum of each account's wealth
+
+        ########## ----- Manual one -----------########
+        # max_wealth = 0  # Initialize max wealth to 0
+        # for ls in accounts:  # Iterate over each account list
+        #     current = 0  # Track current wealth of an account
+        #     for element in ls:  # Iterate over elements in the account
+        #         current += element  # Add the element to current wealth
+        #     if current > max_wealth:  # Check if current wealth is greater than max wealth
+        #         max_wealth = current  # Update max wealth if needed
+        # return max_wealth  # Return the max wealth found
