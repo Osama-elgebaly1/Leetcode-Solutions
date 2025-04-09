@@ -16,6 +16,7 @@ I'm learning and improving my problem-solving skills with each solution.
 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [1342-number-of-steps-to-reduce-a-number-to-zero.py](Easy/1342-number-of-steps-to-reduce-a-number-to-zero.py) | [🔗 Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | O(log(n)) | O(1) |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [1480-running-sum-of-1d-array.py](Easy/1480-running-sum-of-1d-array.py) | [🔗 Link](https://leetcode.com/problems/running-sum-of-1d-array/) | O(n) | O(n) |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [1672-richest-customer-wealth.py](Easy/1672-richest-customer-wealth.py) | [🔗 Link](https://leetcode.com/problems/richest-customer-wealth/) | O(m * n) | O(1) |
+| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [13-roman-to-integer.py](Easy/13-roman-to-integer.py) | [🔗 Link](https://leetcode.com/problems/roman-to-integer/) | O(n) | O(1) |
 
 ---
 
