@@ -8,7 +8,6 @@ class Solution(object):
         # 🔍 Intuition:
         # Use a dictionary to store numbers and their indices as you iterate.
         # For each number, check if its complement (target - num) is already in the dict.
-)
 
         indexes = {}  # Store number -> index
         for i, num in enumerate(nums):

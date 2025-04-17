@@ -19,6 +19,7 @@ I'm learning and improving my problem-solving skills with each solution.
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [13-roman-to-integer.py](Easy/13-roman-to-integer.py) | [🔗 Link](https://leetcode.com/problems/roman-to-integer/) | O(n) | O(1) |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [14-longest-common-prefix.py](Easy/14-longest-common-prefix.py) | [🔗 Link](https://leetcode.com/problems/longest-common-prefix/) | O(n * m) | O(1) |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [21-merge-two-sorted-lists.py](Easy/21-merge-two-sorted-lists.py) | [🔗 Link](https://leetcode.com/problems/merge-two-sorted-lists/) | O(n + m) | O(1) |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [20-valid-parentheses.py](Easy/20-valid-parentheses.py) | [🔗 Link](https://leetcode.com/problems/valid-parentheses/) | O(n) | O(n) |
 
 ---
 

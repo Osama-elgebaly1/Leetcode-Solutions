@@ -11,6 +11,8 @@ class Solution(object):
         # Optimized approach: Using max() and sum() to get the maximum wealth
         return max(sum(account) for account in accounts)  # Find the maximum sum of each account's wealth
 
+
+
         ########## ----- Manual one -----------########
         # max_wealth = 0  # Initialize max wealth to 0
         # for ls in accounts:  # Iterate over each account list

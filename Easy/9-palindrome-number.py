@@ -9,6 +9,7 @@ class Solution(object):
         :rtype: bool
         """
         # --------- Integer-Based Solution -------#
+        
         original = x  # Store the original number to compare later
         converted = 0  # This will hold the reversed number
         while x > 0:  # While there are digits left in the original number
